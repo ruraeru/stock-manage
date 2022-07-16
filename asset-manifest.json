@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/stock-manage/static/js/main.dde36976.js",
+    "static/js/787.fe2ac6b8.chunk.js": "/stock-manage/static/js/787.fe2ac6b8.chunk.js",
+    "index.html": "/stock-manage/index.html",
+    "main.dde36976.js.map": "/stock-manage/static/js/main.dde36976.js.map",
+    "787.fe2ac6b8.chunk.js.map": "/stock-manage/static/js/787.fe2ac6b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dde36976.js"
+  ]
+}
